@@ -67,7 +67,9 @@ Graduada de la carrera de Computación e Informática, apasionada por el desarro
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camiladlc18&theme=gotham&show_icons=true" alt="camiladlc18" />
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=camiladlc18&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="camiladlc18" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=camiladlc18&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="camiladlc18" />
+
+
 
 
 <div align="center">
